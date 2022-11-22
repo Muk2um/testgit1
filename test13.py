@@ -7,7 +7,40 @@ d={
     "name":"mukesh",
     "lastname":"kumar",
     "email_id":"sizalmuky@gmail.com"
+
 }
+d={
+    "name":"mukesh",
+    "lastname":"kumar",
+    "email_id":"sizalmuky@gmail.com"
+
+}
+d={
+    "name":"mukesh",
+    "lastname":"kumar",
+    "email_id":"sizalmuky@gmail.com"
+
+}
+d={
+    "name":"mukesh",
+    "lastname":"kumar",
+    "email_id":"sizalmuky@gmail.com"
+
+}
+d={
+    "name":"mukesh",
+    "lastname":"kumar",
+    "email_id":"sizalmuky@gmail.com"
+
+}
+d={
+    "name":"mukesh",
+    "lastname":"kumar",
+    "email_id":"sizalmuky@gmail.com"
+
+}
+
+
 db1=client['mongotest']
 coll=db['test']
 coll.insert_one(d)
